@@ -1,4 +1,3 @@
-
 #include <vector>       // std::vector
 #include <algorithm>    // std::upper_bound
 #include <iterator>     // std::prev
@@ -8,4 +7,6 @@
 namespace interpolate 
 {
     float hermite(std::vector<std::pair<float, float>>& coord, float outX);
+
+    float hyman(std::vector<std::pair<float, float>>& coord, float outX);
 }
