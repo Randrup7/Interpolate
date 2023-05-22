@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libinterpolateLib.a CMakeFiles/interpolateLib.dir/interpolate.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libinterpolateLib.a
